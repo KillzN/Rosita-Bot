@@ -2,8 +2,8 @@
 
         [ ❗ ] CREDITOS - NO MODIFICAR [ ❗ ]
 
-           Codigo hecho por @ByKillzN
-       Github: https://github.com/KillzN
+           Codigo hecho por @ByFiorita
+       Github: https://github.com/Fiorita
        
        Nota: Solo hay disponibles efectos en
        ingles, por lo que el texto en otros

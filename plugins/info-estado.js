@@ -31,8 +31,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'Kill Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} KillzN
-  ${tradutor.texto1[2]} +56983073328
+  ${tradutor.texto1[1]} Fiorita
+  ${tradutor.texto1[2]} +59891477871
   ${tradutor.texto1[3]} paypal.me/ineffablexmvrco
 
   ${tradutor.texto1[4]} ${rtime}
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/KillzN` },
+    document: { url: `https://github.com/Fiorita` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,13 +72,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/KillzN",
+        mediaUrl: "https://github.com/Fiorita",
         mediaType: 2,
         previewType: "pdf",
-        title: "𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧",
+        title: "𝐑𝐎𝐒𝐈𝐓𝐀 𝐁𝐎𝐓",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://github.com/KillzN",
+        sourceUrl: "https://github.com/Fiorita",
       },
     },
     caption: info,
